@@ -1,0 +1,25 @@
+form{
+    width:600px;
+    margin: auto;
+    background-color: aqua; 
+    padding: 25px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px yellowgreen;
+}
+h2{
+    text-align: center;
+    color: #003366;
+}
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(234, 194, 50);
+}
+input,select,textarea{
+    width: 95%;
+    margin: 5px;
+    padding: 8px;
+
+}
+label{
+    font-weight: bold;
+}
